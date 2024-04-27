@@ -30,7 +30,6 @@ fn main() -> io::Result<()> {
     print_hash("SHA1", &Sha1::digest(&buffer), &args[2..]);
     print_hash("SHA256", &Sha256::digest(&buffer), &args[2..]);
     print_hash("CRC32", &crc32(&buffer).to_be_bytes(), &args[2..]);
-    println!();
     Ok(())
 }
 
