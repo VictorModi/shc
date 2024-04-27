@@ -39,4 +39,4 @@ CRC32   : 48826480
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/VictorModi/shc/blob/matser/LICENSE). Feel free to use it for testing purposes or any other purpose you see fit! :)
+This project is licensed under the [MIT License](https://github.com/VictorModi/shc/blob/master/LICENSE). Feel free to use it for testing purposes or any other purpose you see fit! :)
