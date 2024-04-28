@@ -13,7 +13,7 @@ This is a simple command-line tool for checking file hashes.
 $ shc
 Usage: shc <filename> [<checksum1> <checksum2> ...]
 ```
-- `<filename1>`: The name of the file to check.
+- `<filename>`: The name of the file to check.
 - `<checksum1> <checksum2> ...`: Optional checksum values to compare against.
 
 ## Examples
